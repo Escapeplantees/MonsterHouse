@@ -3,4 +3,10 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Takes",
+			"Enabled": true
+		}
+	]
 }
