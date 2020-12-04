@@ -3,14 +3,4 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "anos",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
 }
