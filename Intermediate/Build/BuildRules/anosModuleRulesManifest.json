@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\McBabe\\Documents\\Unreal Projects\\MonsterHouse\\Source\\anos\\anos.Build.cs",
-		"C:\\Users\\McBabe\\Documents\\Unreal Projects\\MonsterHouse\\Source\\anos.Target.cs",
-		"C:\\Users\\McBabe\\Documents\\Unreal Projects\\MonsterHouse\\Source\\anosEditor.Target.cs"
+		"C:\\Users\\calin\\OneDrive\\Desktop\\BetaArcade\\MonsterHouse\\Source\\anos\\anos.Build.cs",
+		"C:\\Users\\calin\\OneDrive\\Desktop\\BetaArcade\\MonsterHouse\\Source\\anos.Target.cs",
+		"C:\\Users\\calin\\OneDrive\\Desktop\\BetaArcade\\MonsterHouse\\Source\\anosEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }
